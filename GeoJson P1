@@ -813,6 +813,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Punta di Rims - Arrivo",
+        "description": "Punta di Rims"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396236777305603,
+          46.544044773887364
+        ]
+      }
     }
   ]
 }
