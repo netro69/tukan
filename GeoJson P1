@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "stroke-width": 4,
-        "stroke": "yellowgreen"
+        "stroke": "DarkOrange"
       },
       "geometry": {
         "type": "LineString",
