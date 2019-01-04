@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#2D3943",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Partenza",
@@ -20,7 +20,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 4,
+        "stroke": "yellowgreen"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
